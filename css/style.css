@@ -1,0 +1,103 @@
+body {
+    /*font-size:  16px
+
+
+
+font-family: [Young Serif](https://fonts.google.com/specimen/Young+Serif);
+- Weights: 400;
+
+font-family: [Outfit](https://fonts.google.com/specimen/Outfit);
+- Weights: 400, 600, 700';*/
+
+    font-family: Arial, sans-serif;
+    background-color: rgb(216, 195, 187);
+    width: 1440px;
+    font-size: 16px;
+    /* margin: 100px 400px;*/
+    padding: 20px;
+}
+
+.subbody {
+    background-color: white;
+    margin: 100px 300px;
+    border-radius: 20px;
+
+}
+
+.first {
+    margin: 50px;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-right: 100px;
+    border-radius: 10px;
+    
+
+}
+
+.second {
+    margin: 50px;
+    border-radius: 10px;
+
+}
+
+.third {
+    background-color:rgb(237, 228, 224);
+
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+
+}
+
+.fourth {
+    margin-left: 50px;
+}
+
+.fifth {
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.sixth {
+    margin-left: 50px;
+}
+
+h4 {
+    color: #ff7200;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Cal {
+    color: #ff7200;
+    padding-left: 100px;
+}
+
+.list {
+    color: #ff7200;
+}
+
+.sus {
+    color: black;
+    padding-left: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 95%;
+
+}
+td{
+     padding: 8px;
+     text-align: left;
+     border-bottom: 1px solid #ddd;
+     margin-left: 20px;
+    margin-right: 20px;
+    }
